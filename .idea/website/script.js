@@ -1,8 +1,10 @@
 /* global webkitSpeechRecognition */
 // Allows our website to use speech to text. @Carl
+
+
 function runSpeechRecognition() {
     // get output div reference
-    var output = document.getElementById("output");
+    var output = document.getElementById("oustput");
     // get action element reference
     var action = document.getElementById("action");
     // new speech recognition object
