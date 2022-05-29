@@ -50,4 +50,4 @@ jobs:
           path: |
             report
             mega-linter.log
-      
+   
