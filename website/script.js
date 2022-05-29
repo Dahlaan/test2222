@@ -2,14 +2,12 @@
 // Allows our website to use speech to text. @Carl
 
 
-function runSpeechReco gnition() {
+function runSpeechRecognition() {
     // get output div reference
-    var output = document.getElementById("ou stput");
 
     var output = document.getElementById("oustput");
-
     // get action element reference
-    var action = document.getElementById("actio2n");
+    var action = document.getElementById("action");
     // new speech recognition object
 
     var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
