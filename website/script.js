@@ -2,7 +2,7 @@
 // Allows our website to use speech to text. @Carl
 
 
-function runSpeechRecognition() {
+function runSpeechReco gnition() {
     // get output div reference
     var output = document.getElementById("oustput");
     var output = document.getElementById("oustput");
