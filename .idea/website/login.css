@@ -1,0 +1,82 @@
+h1 {
+    text-align: left;
+    color: black;
+    background-color: lightgray;
+    padding: 20px 10px;
+}
+h2{
+    text-align: center;
+
+}
+
+body{
+    font-family: Geneva, serif;
+    font-weight: 626;
+    text-align: center;
+    background-image: url("https://www.formbyfestival.co.uk/wp-content/uploads/2018/08/plain-blue-sky.jpg");
+    background-color: lightsteelblue;
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+
+form{
+    text-align: center;
+
+}
+#button-back{
+    border: none;
+    background-color: rgb(174 220 241 / 96%);
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    top:60%;
+    left:34%;
+
+
+}
+#button-back:hover{
+    cursor: pointer;
+    border-color: red;
+
+
+}
+#button-login{
+    border: none;
+    background-color: rgb(174 220 241 / 96%);
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    top:45%;
+    left:47%;
+
+}
+#button-login:hover{
+    cursor: pointer;
+    border-color: green;
+
+}
+.personal-info{
+    padding: 2px 2px;
+    width: 250px;
+
+}
+button{
+    font-family: "Times New Roman", Serif;
+    font-size: 14px;
+
+}
