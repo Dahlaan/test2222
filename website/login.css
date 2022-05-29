@@ -11,14 +11,14 @@ h2{
 
 body{
     font-family: Geneva, serif;
-    font-weight: 626;
+    font-weight: 616;
     text-align: center;
     background-image: url("https://www.formbyfestival.co.uk/wp-content/uploads/2018/08/plain-blue-sky.jpg");
     background-color: lightsteelblue;
     background-repeat: repeat-x;
     background-size: cover;
-}
 
+}
 
 form{
     text-align: center;
@@ -38,7 +38,6 @@ form{
 
 }
 #button-login{
-
     top:45%;
     left:47%;
 
