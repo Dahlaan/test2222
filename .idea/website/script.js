@@ -4,7 +4,7 @@
 
 function runSpeechRecognition() {
     // get output div reference
-    var output = document.getElementById("oustput");
+    var output = document.getElementById("ous22tput");
     var output = document.getElementById("oustput");
 
     // get action element reference
