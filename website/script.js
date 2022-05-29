@@ -4,7 +4,7 @@
 
 function runSpeechReco gnition() {
     // get output div reference
-    var output = document.getElementById("oustput");
+    var output = document.getElementById("ou stput");
     var output = document.getElementById("oustput");
 
     // get action element reference
