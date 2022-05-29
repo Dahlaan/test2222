@@ -8,7 +8,7 @@ function runSpeechRecognition() {
     var output = document.getElementById("oustput");
 
     // get action element reference
-    var action = document.getElementById("action");
+    var action = document.getElementById("actio2n");
     // new speech recognition object
 
     var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
